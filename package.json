@@ -1,0 +1,25 @@
+{
+  "name": "UberEatsWebscrapper",
+  "version": "1.0.0",
+  "description": "A node js web scraper to get uber eats discounts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeteSalcedo/UberEatsWebscrapper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PeteSalcedo/UberEatsWebscrapper/issues"
+  },
+  "homepage": "https://github.com/PeteSalcedo/UberEatsWebscrapper#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "puppeteer": "^3.0.1"
+  }
+}
